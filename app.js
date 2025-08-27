@@ -78,4 +78,4 @@ const displayModal = async (id) => {
 };
 
 // Load default meals (letter "a")
-loadData("a");
+loadData("b");
